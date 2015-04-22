@@ -2,7 +2,7 @@
 
 ## problem
 
-Read the [problem description](https://github.com/viing937/recommender/blob/master/JN2.pdf).
+Read the [problem description](JN2.pdf).
 
 ## reference
 
