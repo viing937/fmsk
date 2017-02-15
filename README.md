@@ -1,4 +1,6 @@
-# recommender
+# Fmsk
+
+A movie recommender base on Hadoop MapReduce.
 
 ## problem
 
