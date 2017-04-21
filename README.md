@@ -8,4 +8,4 @@ Read the [problem description](JN2.pdf).
 
 ## reference
 
-[Large-scale Collaborative Filtering for the Netflix Prize](Large-scale Collaborative Filtering for the Netflix Prize.pdf)
+[Large-Scale Parallel Collaborative Filtering for the Netflix Prize](https://link.springer.com/chapter/10.1007/978-3-540-68880-8_32)
